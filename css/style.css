@@ -1,0 +1,40 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    background-color: #1f2937;
+}
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.left-container p,
+.header-links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.left-container h1{
+    font-size: 48px;
+    color: #f9faf8;
+}
+button,
+.sign-up-container {
+    background-color: #3882f6;
+    color: white;
+}
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.quote-tab {
+    background-color: #e5e7eb;
+}
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+}
