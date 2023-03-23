@@ -111,7 +111,7 @@ button {
 }
 .quote-container {
     display: flex;
-    margin: 40px;
+    margin: 40px 15%;
     margin-bottom: 0;
     padding: 32px;
     flex-direction: column;
